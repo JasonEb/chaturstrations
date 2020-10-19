@@ -9,7 +9,9 @@ const App = () => {
   
   useEffect( () => {
     let data = teleWords.split('\n')
+    let n = Math.floor(Math.random() * (data.length-1) )
     setWords(data)
+    setIdx(n)
   }, [])
 
   const shuffle = (e) => {
