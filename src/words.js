@@ -1,0 +1,1137 @@
+const words = `dirty martini
+granny panties
+farmer's daughter
+extra baggage
+hot dog eating contest
+rug burn
+Shih Tzu
+getting leg-humped by a dog
+sterile
+peeing in the poo
+zumba
+Blue-footed Booby
+Restless Leg Syndrome
+sports bra
+six feet under
+cruisin' for a bruisin' 
+going down
+belly button lint
+Rocky Mountain oysters
+ball and chain
+bed wetter
+lightweight
+hair gel
+loss of bowel control
+Easy Cheese
+half baked
+cummberbund
+fingered
+catnap
+douchebag
+rigor mortis 
+medical waste
+happy ending
+rubbernecking
+cut the cheese
+yanking my chain
+seperatated at birth
+binge and purge
+franks and beans
+Black Friday
+cosplay
+Oktoberfest
+maxi pad with wings
+Bieber Fecer
+Ppump
+juice cleanse
+weed
+farting in the elevator
+corset
+chubby chaster
+gold digger
+COcker Spaniel
+facial
+bangers and mash
+shrimp tempura
+knead the dough
+methane
+walking in on your parents
+soup kitchen
+plumber's crack
+foot fetish
+anatomically correct
+woman on top
+losing your virginity
+kicking ass
+canned whole chicken
+bad weave
+body order
+twitch
+tied up
+fishnet stockings
+rear-ended
+Cleveland steamer
+pop your cherry
+choke the chicken
+penis enlargement
+white lines
+tenderloin
+shooting up
+cremation
+whoopie pie
+beaver
+beating around the bush
+smoking hot
+wresthe eel 
+makeup sex
+shellfish
+tracks
+strip poker
+main squeeze
+screw
+bun in the oven
+breathalizer test
+dirty sanchez
+keg stand
+flipping the bird
+dead ringer
+big knockers
+down-and-out
+hot beef injection
+missionary position
+make the sausage
+gravy
+penis enlargement
+pillow fight 
+self-flushing toilet
+hopped up
+shower scum
+Kama Sutra
+loosey goosey
+stinky cheese
+tall, dark, and handsome
+knocked up
+bacteria
+coming out of the closer
+sloppy seconds
+FEMALE CELEBRITY
+gonorrhea
+back in the saddle again
+Dick Van Dyke
+SONG TITLE
+gerbil
+muscle head
+peach fuzzSharknado
+crank call
+razor burn
+Pinball Wizard
+pinky swear
+pop a squat
+lap dog
+Navy SEAL
+out of body experience
+conjugal visit
+bring home the bacon
+pus
+uncontrollable flatulence
+safe word
+bootcamp
+tongue-tied
+motorboat
+virgin
+mugshot
+chipmunk cheeks
+mile high club
+tackle box
+hickey
+silent but deadly
+smoking a fatty
+fertilizer
+molting
+sweet 16 and never been kissed
+throbbing
+babysitter
+snakes on a plane
+spit
+preteen
+party foul
+Mrs. Claus
+wingman
+discharge
+hurl
+strip club
+peeing on a jellyfish sting
+foie gras
+stirrup
+ashtray
+cat vomit
+ a kick in the nuts
+wake and bake
+potsticker
+crusty
+hangover
+going Dutch
+leather
+lunch meat
+bumper to bumper 
+wet noodle
+ white meat
+blubber
+pope mobile
+beer pong
+anal probe 
+booger
+horny devil
+sand in your butt crack
+donkey punch
+lie detector test
+menopause
+MOVIE
+floss
+pound
+breast pump
+shaken, not stirred
+twelve-step program
+Aunt Flow
+growth spurt
+getting your panties in a bunch
+Siamese twins
+whipped cream
+double Ds
+the book of Mormon
+race relations
+Mary Jane
+projectile vomit
+Vegas, baby!
+cock block
+juicer
+Grim Reaper
+facepalm
+prom night
+cankles
+drunk driving
+love child
+ sex tape
+ coming out of both ends
+kung-fu grip
+flamer
+lumberjack
+dubstep
+pigeon toed
+booby trap
+nutcracker
+twink
+shrinkage
+snow globe
+ body shot
+French people
+polygamist
+dumpster baby
+daddy complex 
+personal lubricant
+dick in a box
+triple-X
+NASCAR
+pirate booty
+imaginary friend
+wife swap
+five o'clock shadow
+midlife crisis
+foot fetish
+jelly doughnut
+banana hammock
+duck face
+mascot cheese ball
+ woodpecker
+saddle bags
+soiled
+ribbed
+weiner dog
+dumplings
+colonoscopy
+pussy cat
+bling
+shit-eating grin
+broken condom
+pit crew
+crabs stroke
+beer goggles 
+salve
+enema
+chasing tail
+frat boy
+two drink minimum
+2 girls 1 cup
+meth lab
+dime bag
+prostrate exam
+lockjaw
+roach
+throwing up in your mouth
+Bangkok
+trampstamp
+lobster bisque
+crazy at lady
+ointment
+blaming your fart on the dog
+colonic
+peacock
+fellation
+explosive diarrhea
+over easy
+hazmat
+circumsion
+playing in traffic
+corner pocket
+pole position
+Paris Hilton
+milk maid
+illegal aliens
+Ron Jeremy
+one million dollars
+porn star
+yeast infection
+tongue piercing
+orgasm
+roid rage
+plunger for arms
+first world problems
+strobe light seisures
+leper colony
+figgy pudding
+MOVIE
+giving blood
+twerking
+sea cucumber
+golden shower
+playing with yourself
+bling
+old-person smell
+swingers
+childhood obesity
+montezuma's revenge
+panty raid
+multiple partners
+little people
+virgin sacrifice
+first base
+David Hasselhoff
+teen mom
+laser vision
+The Pope
+candy-coated
+MALE CELEBRITY
+ass to mouth
+cheese curds
+snort 
+shart
+downward dog
+areola 
+dance off
+a bad boob job
+pu pu platter
+puberty
+taint
+kidney stone
+bone
+toilet paper stuck to shoe
+knockout
+diaphragm
+action figure
+vasectomy
+diaphragm
+lap dance
+all sexed up
+MOVIE
+dung beetle
+four-twenty
+half-assed
+barging out a car window 
+doggy style
+rolling papers
+cockroach
+pillow talk
+man boobs
+dental dam
+nail
+stick shift chestnut
+chum bucket
+slip 'n' slide
+roofie
+three blind mice
+mail order bridge
+one night stand 
+hot sake
+castking couch
+cybersex
+booty call
+tittie twister
+General Tso's Chicken
+anaconda
+dipstick jackhammer
+farm to table 
+loaf
+clogged toilet
+bachelor party
+human centipede
+porn 'stache
+doggy style
+rolling papers
+cockroach
+pillow talk
+man boobs
+hambone
+bitch slap
+living in a van down by the river 
+moustache ride
+anti-vaxxer
+spelunker
+man seed
+va-jay-jay
+troll
+bearded clam
+beat box
+clean and jerk
+GILF
+eat out 
+cream pie
+stud finder
+stomach stapling
+cunnilingis 
+honey moon 
+honey baked ham
+toot your own horn
+bed bugs
+hot sauce
+hard hat
+drool
+whopper
+dictator
+spare tire
+put a bird on it
+bacon bits
+spider monkey
+tighty-whities
+hoarder
+rave
+tuna taco
+ pork
+skin flute
+dog walker 
+heavy petting 
+bidet
+stump rectory
+spin the bottle
+titmouse
+ballcock
+ramrod
+upper decker
+Kim Kardashian
+gravy train
+moobs
+baby mama
+spunk
+six-pack abs
+Keanu Reeves
+bigger and blacker
+chains and whips
+sex crime unit
+yule log
+sperm whale
+seedless cucumber
+one-eyed monster
+corn nuts
+blowing a bubble
+package
+5 dollar footlong
+MOVIE
+mom jeans 
+sorority girl
+online dating
+rack
+teabagging
+roll in the hay
+Fluffernutter
+genital warts
+fantasy suite
+tea party
+string theory
+bachelorette party
+backseat driver
+dep throat
+Anchorman
+balls to the wall
+booze cruise
+eye patch
+toe jam
+poop face
+ pussyfoot
+ comb over
+hand sanitizer
+corner pocket
+dry rub
+Telestrations
+finger-lickin' good
+scratch and sniff
+burnout
+dirty mind 
+gang sign
+early bird gets the worm
+hot flashes
+egg sac
+nut butter
+jail bait
+gigolo
+turned on 
+shooting hoops
+MALE CELEBRITY
+hole in one
+moist towelette
+aphroasiac 
+rice balls
+waterboy
+caboose
+getting laid off
+spleen
+hot yoga
+Catholoic schoolgirl
+pulp
+chocolate pudding
+on the rocks
+Puss in Boots
+foreskin
+spinal tap
+sex drive
+prune juice
+necrophilia
+blowing hot air
+vibrator
+wasabi
+third nipple
+dingleberry
+insomnia
+Grumpy Cat
+public restroom
+wrecking ball
+road trip 
+bar matzvah boy
+catfight 
+confessional
+public display of affection
+getting mooned
+bareback
+horny toad
+time of the month
+drop the kids off at the pool
+bad trip
+pig in a blanket
+shit storm
+FEMALE CELEBRITY
+stick up your butt
+leftie
+lunch lady
+turn your head and cough
+nip slip
+cans 
+hot pockets 
+in heat
+hammer toe
+belly button piercing
+mechanical bull
+urine specimen
+balls deep 
+plunger
+ jungle fever
+sausage fest
+platypus
+fuzzy dice
+MILF
+Ring of Fire
+cockles
+turtling
+poms poms
+tequila
+black widow
+Playboy bunny
+dine and dash
+handcuffs
+blunt
+Mini-me
+Hulkmania
+fruitcake
+MOVIE
+clubbing
+eating boogers
+naked mole rat
+jumping the shark
+come hell or high water
+red carpet
+pocket pool
+lab rat
+ecstasy
+hard hat
+sex on the beach
+MOVIE
+pumping iron
+jock itch
+rubber cement
+standing at attention
+weak in the knees
+skeletons in the closet
+wicket step mother
+son of a bitch
+BOOK
+getting stood up
+love handles
+Big Mac Attack
+funnel
+flasher
+a burning sensation
+fluffer 
+nude beach
+merkin
+Freudian slip
+asteroids
+goat cheese
+support hose
+PMS
+medicinal marijuana
+ facelift
+pussy willow
+one track mind
+muffin top
+spork
+Octopussy
+cop a feel
+bicycle shorts
+rusty trombone
+coctail weenie
+fantasy football
+gaydar
+back fat
+rim job
+passed out 
+friend request
+pinch it off
+impalnts
+bear
+hairy nipples
+between a rock and a hard place
+seaman
+Spanish Fly
+fudge packing
+peeing in the shower
+swollen
+FICTIONAL CHARACTER
+spermicide
+tassels
+Uranus
+too fat to get out of bed
+role play
+assless chaps
+peg leg
+peeping Tom
+senior moment
+drunk dial
+half pregnant
+hip replacement surgery
+baby bump
+jockstrap
+burping a baby
+helmet
+family jewels
+constipated
+Bride of Frankenstein
+baby wipes
+tripe
+outhouse
+borming-after pill
+afterbirth
+infection
+Fu Manchu
+jalepno popper
+paternity test
+magic mushrooms
+Heimlich maneuver
+Big Dipper
+huffing paint
+MALECELEBRITY
+flush twice
+third base
+backhoe
+steady stream
+cold sore
+inbox
+rehab
+man hands
+fanny pack
+turducken
+rash
+cracker
+bong
+leap of faith
+chastity  belt
+junk in the trunk
+karaoke
+party pooper
+MOVIE
+lube job
+the motion of the ocean
+binge drinking
+hooker
+seven minutes in heaven
+reach around
+pork rind
+dry heave
+stool softener
+tickled pink
+buttering the corn
+kiss the porcelain goddess
+roadkill
+love triangle
+SONG TITLE
+home run
+snatch
+sponge
+cadaver
+pole dancing
+same sex marriage
+gas mask
+spam
+It's Raining Men
+night sweats
+quickie
+back door man
+load
+bust a nut
+spit and polish
+trouser snake
+ride the pony
+wiggle room
+butternut
+crumpet
+gonad
+under carriage
+FEMALE CELEBRITY
+dyke
+pole vault
+televangelist
+piston
+amazon
+pie a la mode
+wanker
+hamhock
+G-string
+cunning linguist
+titillate
+cumquat
+gag me with a spoon
+sexting
+bad in bed
+call of duty
+tube socks
+head up your ass
+unitard
+Mayo Clinic
+flog the log
+sleep apnea
+bloodshot
+McRib
+Right to Bear Arms
+cocpit
+Giant Squid
+shower scene
+belly fat
+FEMALE CELEBRITY
+cut the cheese
+joint
+autoerotic asphyxiation
+trailer park
+bacne
+tapeworm
+pickled pigs feet
+baptism
+swallow
+kegels
+Rogaine
+wide receiver
+pin-up girl
+stiffy
+rat poison
+sixty-nine
+lipsuction
+penetration
+morning wood
+female condom
+crack head
+a little gay
+phoning it in
+grass-fed
+pimp
+hanging chad
+skunk
+pot brownie
+munchies
+hook hand
+numpho
+pimp my ride
+Osama bin Laden
+NSFW
+neckbeard
+ladyboy
+mouth breather
+pre-op transexual
+gay porn
+enhanced male potency
+needle exchange program
+The Deep South
+meme
+hemorrhoid cream
+buzzkill
+wasted
+pitching a tent
+chain gang
+fecal matter
+picking a wedgie
+erectile dysfunction
+pooper scooper
+redneck
+thespian
+centerfold
+girl on girl
+spank the monkey
+jugs
+trophy wife
+ball boy
+key party
+loose cannon
+herat rate
+fish stick
+top-heavy
+lederhosen
+just the tip
+TV SHOW
+spread eagle
+hamster wheel
+harpoon
+yeast
+strip mall
+pink eye
+pull out method
+acid reflux
+getting an erection in class
+pubic hair on a bar of soap
+frisk
+Fleslight
+last call
+Hannibal Lecter
+butter face
+pee pad
+love shack
+FICTIONAL CHARACTER
+yak
+floppy disk
+skin graft
+The Love Boat
+chat room
+sticky fingers
+fire in the hole
+face plant
+gringo
+homie
+sperm bank
+mixed nuts
+coat hanger
+climbing the rope in gym class
+colostomy bag
+gay Hitler
+make it rain
+FML
+asshat
+n00b
+woody
+wife beater
+Pamela Anderson
+ROFL
+om nom nom
+burner
+bromance
+sideboob
+anaconda
+Bollywood
+chick mangnet
+blonde bombshell
+hardbody
+hairless cat
+hit and run
+baby shower
+mosh pit
+fun bags
+fast cars and fast women
+lice comb
+altar boy
+poop deck
+sniffing glue
+toenail fungus
+student body
+daddy longlegs
+yellow snow
+spring break
+French tickler
+beefcake
+Handy Smurf
+headbanger
+birth control pills
+pit stain
+head wound
+hermaphrodite
+false alarm
+milking a cat
+shag
+tart
+tampon
+Bloody Mary
+eye booger
+pelvic thrust
+man on man
+freshman fifteen
+thigh gap
+hair of the dog
+divorce court
+barefoot and pregnant
+rubber gloves
+hard liquor
+leaky boob
+Happy Hump Day!
+knuckle sandwich
+afro pick
+dragon breath
+Helen Keller
+reverse cowgirl
+immaculate conception
+selfie
+baby got back
+dip cup
+ice queen
+stick shift
+toss your salad
+spotted dick
+F-bomb
+skunked
+birthday suit
+pride parade
+intervention
+hung like a horse
+dongle
+brain fart
+appendicitis
+lighting a match
+doppelganger
+pearl necklace
+red flag
+hipster
+private dick
+sphincter
+on the wagon
+spin cycle
+one hit wonder
+hummer
+yuppie
+camel toe
+G-spot
+tube top
+medium rare
+dutch oven
+jolly roger
+cream filling
+plow
+beef stew
+tight end
+secretion
+money shot
+urinal cake
+multiple orgasms
+kissing cousins
+man eater
+blow
+sweating like a pig
+couger
+whipped
+killing it
+shit show
+seat warmer
+frontal lobotomy
+FOOD
+headcheese
+chicken butt
+turkey jerky
+bearded lady
+petting zoo
+FICTIONAL CHARACTER
+organ donor
+sweaty palms
+foreplay
+full frontal nudity
+picking a scab
+nanny-cam
+mob boss
+smoker's lung
+head
+waiting for the ball to drop
+morning sickness
+don't drop the soap
+botox
+popping a zit
+tuna casserole
+the big bang theory
+planking
+sex swing
+dandruff shampoo
+beauty queen
+steroids
+pack a bowl
+hairy palms
+virgin territory
+testicle
+Bill Clinton
+rage face
+hot fudge
+beat the batter
+driveshaft
+robot legs
+fish taco
+penis envy
+shut up and take my money
+friction
+rice and beans
+cock-a-doodle-doo
+coochie
+weed card
+hoof and mouth disease
+Q-tip
+Russian mafia
+sniff test
+cat scratch fever
+buttery spread
+in a pickle
+cod piece
+gargle
+bogart
+romp in the woods
+hocking a loogie
+uncut
+first person shooter
+brown noser
+naughty or nice
+grind
+barf bag
+vampire bat
+unibrow
+coughing up a hairball
+packing heat
+honey pot
+cross-dressing
+sit 'n' spin
+Viagra
+BOOK
+open fly
+white lie
+farting in the bathtub
+canoodle
+elixir
+bumfuzzle
+boink
+caulk a hole
+spooge
+prickle
+bunghole
+lube job
+septum
+anal retentive
+screwing in a lightbulb
+menage a trois
+tantric sex
+dildo
+french kiss
+latex allergy
+rhinoplasty
+pin the tail on the donkey
+serial killer
+drop dead gorgeous
+giblets
+tight
+alien abduction
+ride the pony
+kicking ass
+finger food
+shuttlecock
+Homo erectus
+puss in boots
+photobomb
+hemp
+pick-up line
+hard drive
+drunk Santa
+let one fly
+elevator shaft
+your mother
+manicotti
+mosquito bites
+scurvy
+Prince Albert
+Little Miss muffet
+cream fo tartar
+extra skin from extreme weight loss
+raised by wolves
+FEMALE CELEBRITY
+over the hill
+gesticulate
+mall cop
+potluck
+getter ball
+melons
+bush
+skid marks
+nail in the coffin
+manhole
+shit for brains
+Burning Man
+doggie bag
+MALE CELEBRITY
+break wind
+hot box
+tunnel
+breast stroke
+tentacles
+penal colony
+leper
+banana
+spit and polish
+finger bang
+coccyx
+the war on terror
+creamed corn
+breakup sex
+soft serve
+tool
+lump of coal
+lactose intolerant
+blowhole
+gender bender
+benchwarmer
+blue balls
+soup to nuts
+ding dong
+cream filling
+hot milk
+shoot the moon
+back door
+laying pipe
+get lucky
+rump roast
+pinch a loaf
+hot rod
+raincoat
+Pandora's box`
+
+export default words
